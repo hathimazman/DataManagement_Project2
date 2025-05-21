@@ -1,0 +1,4 @@
+# ignore the dataset folder
+*.csv
+*.pdf
+/dataset/*.csv
