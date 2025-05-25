@@ -1,4 +1,4 @@
-# ✈️ Flight Delay and Cancellation Analysis
+# ✈️ Flight Delay and Cancellation Analysis, Analysis of Year 2006 Dataset
 
 ![plane](images/plane.jpg)
 
@@ -21,10 +21,10 @@ This project presents a comprehensive data-driven analysis of flight delays and 
 ## 🧰 Tools & Technologies
 
 - **Programming Language**: Python
-- **Data Analysis & Visualization**: pandas, numpy, matplotlib, seaborn, plotly
-- **Statistical Testing**: scipy (e.g., ANOVA, t-tests)
+- **Data Analysis & Visualization**: pandas, numpy, matplotlib, seaborn
+- **Statistical Testing**: scipy (e.g., t-tests)
 - **Jupyter Notebook**: For interactive data exploration
-- **Data Source**: U.S. Department of Transportation (Bureau of Transportation Statistics)
+- **Data Source**: [Data Expo 2009: Airline On Time Data](https://www.kaggle.com/datasets/wenxingdi/data-expo-2009-airline-on-time-data/data?select=1993.csv)
 
 ---
 
