@@ -6,6 +6,8 @@
 
 This project presents a comprehensive data-driven analysis of flight delays and cancellations within the U.S. aviation industry. By leveraging historical flight performance data, it explores the impact of time, delay causes, airline operators, airports, and specific flight routes on overall punctuality and reliability. The analysis aims to uncover patterns, highlight operational bottlenecks, and provide actionable insights for airline companies, airport operators, policymakers, and travelers.
 
+> This project utilizes the hadoop ecosystem with HIVE Database as a location for storing the dataset, and using HiveSQL to for ETL Process.
+
 ---
 
 ## 🎯 Objectives
@@ -19,8 +21,17 @@ This project presents a comprehensive data-driven analysis of flight delays and 
 ---
 
 ## 🧰 Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![HiveSQL](https://img.shields.io/badge/HiveSQL-yellow?logo=apache-hive&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-purple?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet?logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-teal?logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-Statistics-lightgrey?logo=scipy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Data-Kaggle-blue?logo=kaggle&logoColor=white)
 
-- **Programming Language**: Python
+- **Programming Language**: Python (Insights and Analysis), HiveSQL (ETL Process)
 - **Data Analysis & Visualization**: pandas, numpy, matplotlib, seaborn
 - **Statistical Testing**: scipy (e.g., t-tests)
 - **Jupyter Notebook**: For interactive data exploration
